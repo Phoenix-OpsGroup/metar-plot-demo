@@ -76,6 +76,7 @@ export default function App() {
         <div className={classes.title} >
           <TextField className={classes.textarea} color="primary" id="filled-basic" label="Raw METAR" variant="filled" onChange={(event) => {setRaw(event.target.value)}}/>
         </div>
+        <a href="http://aviationweather.gov/metar/data">NOAA Sample data</a>
       </Paper>
       <div className={classes.results}>
         <Paper elevation={4}>
