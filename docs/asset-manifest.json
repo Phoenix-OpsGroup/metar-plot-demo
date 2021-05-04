@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/metar-plot-demo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/metar-plot-demo/static/js/main.ab9900e7.chunk.js",
+    "main.js.map": "/metar-plot-demo/static/js/main.ab9900e7.chunk.js.map",
+    "runtime-main.js": "/metar-plot-demo/static/js/runtime-main.91937a92.js",
+    "runtime-main.js.map": "/metar-plot-demo/static/js/runtime-main.91937a92.js.map",
+    "static/js/2.e471a21f.chunk.js": "/metar-plot-demo/static/js/2.e471a21f.chunk.js",
+    "static/js/2.e471a21f.chunk.js.map": "/metar-plot-demo/static/js/2.e471a21f.chunk.js.map",
+    "static/js/3.4bd3d10b.chunk.js": "/metar-plot-demo/static/js/3.4bd3d10b.chunk.js",
+    "static/js/3.4bd3d10b.chunk.js.map": "/metar-plot-demo/static/js/3.4bd3d10b.chunk.js.map",
+    "index.html": "/metar-plot-demo/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/metar-plot-demo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e471a21f.chunk.js.LICENSE.txt": "/metar-plot-demo/static/js/2.e471a21f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91937a92.js",
+    "static/js/2.e471a21f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ab9900e7.chunk.js"
+  ]
+}
