@@ -1,7 +1,7 @@
-# METAR Plot Demo
+# METAR Plot Demo 
 
-This is a Demo of the Metar Plot Npm package 
+This is a Demo of the Metar Plot Npm package
 
-Demo: [https://jgunzelman-phoenix.github.io/metar-plot-demo/](https://jgunzelman-phoenix.github.io/metar-plot-demo/)
+Demo: [https://phoenix-ops.github.io/metar-plot-demo/](https://phoenix-ops.github.io/metar-plot-demo/)
 
 NPM package : [metar-plot](https://www.aviationweather.gov/metar/data)
