@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from 'react';
+import React, { useState } from 'react';
 import { METAR, rawMetarToSVG } from 'metar-plot'
 import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
@@ -102,7 +102,7 @@ export default function App() {
         <div>
           <Paper elevation={4} className={classes.metarbox}>
             <Typography variant="h6" className={classes.resultTitle}>
-              Metar Plot (🇺🇸 🇨🇦)
+              Metar Plot (🇺🇸)
           </Typography>
             <img src={svg} />
           </Paper>
