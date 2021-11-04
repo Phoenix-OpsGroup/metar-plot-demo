@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/metar-plot-demo/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/metar-plot-demo/static/js/main.776a98eb.chunk.js",
-    "main.js.map": "/metar-plot-demo/static/js/main.776a98eb.chunk.js.map",
-    "runtime-main.js": "/metar-plot-demo/static/js/runtime-main.c4e37b69.js",
-    "runtime-main.js.map": "/metar-plot-demo/static/js/runtime-main.c4e37b69.js.map",
-    "static/js/2.fcf1dff7.chunk.js": "/metar-plot-demo/static/js/2.fcf1dff7.chunk.js",
-    "static/js/2.fcf1dff7.chunk.js.map": "/metar-plot-demo/static/js/2.fcf1dff7.chunk.js.map",
-    "static/js/3.ba2f7377.chunk.js": "/metar-plot-demo/static/js/3.ba2f7377.chunk.js",
-    "static/js/3.ba2f7377.chunk.js.map": "/metar-plot-demo/static/js/3.ba2f7377.chunk.js.map",
+    "main.css": "/metar-plot-demo/static/css/main.38508a63.chunk.css",
+    "main.js": "/metar-plot-demo/static/js/main.6ba42904.chunk.js",
+    "main.js.map": "/metar-plot-demo/static/js/main.6ba42904.chunk.js.map",
+    "runtime-main.js": "/metar-plot-demo/static/js/runtime-main.7519043c.js",
+    "runtime-main.js.map": "/metar-plot-demo/static/js/runtime-main.7519043c.js.map",
+    "static/js/2.9830e7b5.chunk.js": "/metar-plot-demo/static/js/2.9830e7b5.chunk.js",
+    "static/js/2.9830e7b5.chunk.js.map": "/metar-plot-demo/static/js/2.9830e7b5.chunk.js.map",
+    "static/js/3.f3ad39a5.chunk.js": "/metar-plot-demo/static/js/3.f3ad39a5.chunk.js",
+    "static/js/3.f3ad39a5.chunk.js.map": "/metar-plot-demo/static/js/3.f3ad39a5.chunk.js.map",
     "index.html": "/metar-plot-demo/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/metar-plot-demo/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.fcf1dff7.chunk.js.LICENSE.txt": "/metar-plot-demo/static/js/2.fcf1dff7.chunk.js.LICENSE.txt"
+    "static/css/main.38508a63.chunk.css.map": "/metar-plot-demo/static/css/main.38508a63.chunk.css.map",
+    "static/js/2.9830e7b5.chunk.js.LICENSE.txt": "/metar-plot-demo/static/js/2.9830e7b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4e37b69.js",
-    "static/js/2.fcf1dff7.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.776a98eb.chunk.js"
+    "static/js/runtime-main.7519043c.js",
+    "static/js/2.9830e7b5.chunk.js",
+    "static/css/main.38508a63.chunk.css",
+    "static/js/main.6ba42904.chunk.js"
   ]
 }
